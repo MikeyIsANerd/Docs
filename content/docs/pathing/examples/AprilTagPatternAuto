@@ -3,7 +3,7 @@ title: Example AprilTag Usage
 description: Responding to April Tags with PedroPathing
 ---
 
-This page gives an example code of how to do one of three paths based off the MOTIF during autonomous. It responds moves to the position of one of the three rows of elements. It then will move to the farther triangle to shoot in the ogal at a 115 degree angle.
+This page gives an example code of how to do one of three paths based off the MOTIF during autonomous. It responds moves to the position of one of the three rows of elements. It then will move to the farther triangle to shoot in the goal at a 115 degree angle.
 
 
 ```java title="AprilTagPatternAuto"
