@@ -1,9 +1,9 @@
 ---
 title: Example AprilTag Usage
-description: Responding to april tags with pedro pathing
+description: Responding to April Tags with Pedro Pathing
 ---
 
-This page gives an example code of how to do one of three paths based off the MOTIF april tag during autonomous
+This page gives an example code of how to do one of three paths based off the MOTIF april tag during autonomous.
 
 
 ```java title="AprilTagPatternAuto"
