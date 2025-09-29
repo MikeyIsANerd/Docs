@@ -3,7 +3,7 @@
     "constants",
     "auto",
     "teleop",
-    "apriltags"
+    "apriltags",
     "aprilTagPatternAuto"
   ]
 }
